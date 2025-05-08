@@ -1,6 +1,6 @@
 ---
 title: Subject To Change
-layout: default
+layout: 
 ---
 
 # Welcome to Our Game!
