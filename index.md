@@ -7,4 +7,4 @@ layout: default
 
 Subject to Change is a Parkour game 
 
-![screenshot](StC-img.png)
+<img src="img/StC-img.png">
