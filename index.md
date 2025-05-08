@@ -1,5 +1,3 @@
-# Subject to Change
-
 ---
 title: Subject To Change
 layout: default
