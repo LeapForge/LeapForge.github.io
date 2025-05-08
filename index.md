@@ -1,7 +1,3 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="custom.css">
-</head>
-
 ---
 title: Subject To Change
 layout: default
