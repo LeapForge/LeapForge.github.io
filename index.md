@@ -1,12 +1,10 @@
 ---
 title: Subject To Change
-layout: 
+layout: default
 ---
 
-# Welcome to Our Game!
+# A game by LeapForge
 
-Here is a quick description of our game.
-
-You can play it [here](game.html).
+Subject to Change is a Parkour game 
 
 ![screenshot](screenshot.png)
