@@ -3,10 +3,11 @@ title: Subject To Change
 layout: default
 ---
 
-# A game by LeapForge
+# Subject to Change
 
 Subject to Change is a one-of-a-kind parkour game developed by LeapForge. The game features a dynamic movement system that offers high-octane gameplay complemented by a randomly generated map to enhance replayability.
 
+# Screenshots
 <img src="img/StC-img.png"     
      width="500" 
      height="300" />>
