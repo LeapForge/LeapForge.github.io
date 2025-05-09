@@ -10,7 +10,7 @@ Subject to Change is a one-of-a-kind parkour game developed by LeapForge. The ga
 # Trailer
 
 <video width="640" height="360" controls>
-  <source src="trailer.mkv" type="video/Stctrailer.mv">
+  <source src="img/StCtrailer.mkv" type="video/StCtrailer.mkv">
   Your browser does not support the video tag.
 </video>
 
