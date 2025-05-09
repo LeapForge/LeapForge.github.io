@@ -17,7 +17,7 @@ Subject to Change is a one-of-a-kind nightmarish parkour game developed by LeapF
 
 <img src="img/StCMenu.png" width="500" height="300">
 
-<img src="img/StC-img.png" width="500" height="300
+<img src="img/StC-img.png" width="500" height="300">
 
 # Future Goals
 
